@@ -49,3 +49,7 @@ Contains lots of really interesting research papers in the field of AI/ML/Deep L
 ## [Salient Object Detection in the Deep Learning Era: An In-Depth Survey](https://arxiv.org/abs/1904.09146)
 - **Read?** Yes (once)
 - Insert notes here
+
+## [Hyperspherical Variational Auto-Encoders](https://www.researchgate.net/publication/324182043_Hyperspherical_Variational_Auto-Encoders)
+- **Read?** No (Reading tonight, Oct. 15, 2020)
+- Insert notes here
