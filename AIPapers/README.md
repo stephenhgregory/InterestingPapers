@@ -53,3 +53,7 @@ Contains lots of really interesting research papers in the field of AI/ML/Deep L
 ## [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)
 - **Read?** No
 - Insert Notes here
+
+## [Hyperspherical Variational Auto-Encoders](https://www.researchgate.net/publication/324182043_Hyperspherical_Variational_Auto-Encoders)
+- **Read?** No (Reading tonight, Oct. 15, 2020)
+- Insert notes here
