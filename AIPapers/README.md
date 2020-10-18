@@ -49,3 +49,7 @@ Contains lots of really interesting research papers in the field of AI/ML/Deep L
 ## [Salient Object Detection in the Deep Learning Era: An In-Depth Survey](https://arxiv.org/abs/1904.09146)
 - **Read?** Yes (once)
 - Insert notes here
+
+## [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)
+- **Read?** No
+- Insert Notes here
