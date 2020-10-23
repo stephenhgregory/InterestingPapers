@@ -59,5 +59,30 @@ Contains lots of really interesting research papers in the field of AI/ML/Deep L
 - Insert notes here
 
 ## [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434v1.pdf)
-- **Read?** No
-- Insert notes here
+- **Read?** Yes
+- Date: 2016
+- Conference: ICLR
+- Authors:
+	- Soumith Chintala 
+		- Facebook Research
+		- soumith@fb.com
+	- Alec Redford
+		- indico Research
+		- alec@indico.io
+	- Luke Metz
+		- indico Research
+		- luke@indico.io
+- Bridges the gap between success of CNNs for supervised learning and unsupervised learning
+- Introduces new class of CNNs called **Deep Convolutional Generative Adversarial Networks (DCGANS)**
+- Shows that deep convolutional adversarial pair (generator and discriminator) learns hierarchy of 
+representations from object parts to scenes in both generator and discriminator
+- Additionally, uses learned features for novel tasks
+	- Demonstrates DCGANs' applicability as general image representations
+- Play around with implementation [here](notebooks/DCGANs.ipynb)
+
+
+
+
+
+
+
