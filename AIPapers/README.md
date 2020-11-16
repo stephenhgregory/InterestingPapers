@@ -55,7 +55,7 @@ Contains lots of really interesting research papers in the field of AI/ML/Deep L
 - Insert notes here
 
 ## [Hyperspherical Variational Auto-Encoders](https://www.researchgate.net/publication/324182043_Hyperspherical_Variational_Auto-Encoders)
-- **Read?** No (Reading tonight, Oct. 15, 2020)
+- **Read?** Yes (once)
 - Insert notes here
 
 ## [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434v1.pdf)
@@ -79,3 +79,6 @@ representations from object parts to scenes in both generator and discriminator
 - Additionally, uses learned features for novel tasks
 	- Demonstrates DCGANs' applicability as general image representations
 - Play around with implementation [here](notebooks/DCGANs.ipynb)
+
+## [Wasserstein GANs](https://arxiv.org/pdf/1701.07875.pdf)
+- **Read?** No
