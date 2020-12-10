@@ -79,3 +79,6 @@ representations from object parts to scenes in both generator and discriminator
 - Additionally, uses learned features for novel tasks
 	- Demonstrates DCGANs' applicability as general image representations
 - Play around with implementation [here](notebooks/DCGANs.ipynb)
+
+## [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818.pdf)
+- **Read?** Skimmed (doing this today, 11-02-2020)
