@@ -55,7 +55,7 @@ Contains lots of really interesting research papers in the field of AI/ML/Deep L
 - Insert notes here
 
 ## [Hyperspherical Variational Auto-Encoders](https://www.researchgate.net/publication/324182043_Hyperspherical_Variational_Auto-Encoders)
-- **Read?** No (Reading tonight, Oct. 15, 2020)
+- **Read?** Yes (once)
 - Insert notes here
 
 ## [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434v1.pdf)
@@ -82,3 +82,12 @@ representations from object parts to scenes in both generator and discriminator
 
 ## [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818.pdf)
 - **Read?** Skimmed (doing this today, 11-02-2020)
+
+## [Wasserstein GANs](https://arxiv.org/pdf/1701.07875.pdf)
+- **Read?** No
+- Linked from Coursera's GAN course, very satisfying idea. Read it bozo!
+
+## [Generalized Ternary Connect: End-to-End Learning and Compression of Multiplication-Free Deep Neural Networks](https://arxiv.org/abs/1811.04985)
+- **Read?** No
+- Seems to involve restricting the weights of a neural network to powers of 2 such that no multiplications are necessary. This is done instead of the more typical binarization of weights.
+
