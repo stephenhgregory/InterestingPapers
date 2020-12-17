@@ -91,3 +91,7 @@ representations from object parts to scenes in both generator and discriminator
 - **Read?** No
 - Seems to involve restricting the weights of a neural network to powers of 2 such that no multiplications are necessary. This is done instead of the more typical binarization of weights.
 
+## [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
+- **Read?** Yes
+- Linked to this paper from a Coursera course
+
