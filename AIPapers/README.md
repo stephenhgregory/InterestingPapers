@@ -2,61 +2,33 @@
 Contains lots of really interesting research papers in the field of AI/ML/Deep Learning
 
 ## [A Self Attentional Auto-Encoder Based Intrustion Detection System](https://www.researchgate.net/publication/342873179_A_Self-Attentional_Auto_Encoder_based_Intrusion_Detection_System)
-- **Read?** Yes (once)
-- Insert notes here
 
 ## [CNN-DMRI](https://www.sciencedirect.com/science/article/abs/pii/S0167865520301203)
-- **Read?** Yes (once)
-- Insert notes here
 
 ## [DnCNN](https://arxiv.org/abs/1608.03981)
-- **Read?** Yes (2 or 3 times)
 - [GitHub repo](https://github.com/cszn/DnCNN)
-- Insert notes here
 
 ## [D-VAE](https://arxiv.org/abs/1904.11088)
-- **Read?** No
-- Insert notes here
 
 ## [Hidden Technical Debt In Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
-- **Read?** No
-- Insert notes here
 
 ## [Inception-Residual Block Based Neural Network For Thermal Image Denoising](https://arxiv.org/abs/1810.13169)
-- **Read?** Skimmed
-- Insert notes here
 
 ## [MRI Denoising Using Deep Learning: 4th International Workshop](https://www.researchgate.net/publication/327647791_MRI_Denoising_Using_Deep_Learning_4th_International_Workshop_Patch-MI_2018_Held_in_Conjunction_with_MICCAI_2018_Granada_Spain_September_20_2018_Proceedings)
-- **Read?** No
-- Insert notes here
 
 ## [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
-- **Read?** Partially (long paper)
-- Insert notes here
 
 ## [On the Surprising Behavior of Distance Metrics in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf)
-- **Read?** No
-- Insert notes here
 
 ## [Predicting Customer Call Intent with CNNs](https://arxiv.org/abs/1907.03715)
-- **Read?** Yes (once)
-- Insert notes here
 
 ## [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409)
-- **Read?** No
-- Insert notes here
 
 ## [Salient Object Detection in the Deep Learning Era: An In-Depth Survey](https://arxiv.org/abs/1904.09146)
-- **Read?** Yes (once)
-- Insert notes here
 
 ## [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)
-- **Read?** No
-- Insert notes here
 
 ## [Hyperspherical Variational Auto-Encoders](https://www.researchgate.net/publication/324182043_Hyperspherical_Variational_Auto-Encoders)
-- **Read?** Yes (once)
-- Insert notes here
 
 ## [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434v1.pdf)
 - **Read?** Yes
@@ -81,13 +53,11 @@ representations from object parts to scenes in both generator and discriminator
 - Play around with implementation [here](notebooks/DCGANs.ipynb)
 
 ## [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818.pdf)
-- **Read?** Skimmed (doing this today, 11-02-2020)
 
 ## [Wasserstein GANs](https://arxiv.org/pdf/1701.07875.pdf)
-- **Read?** No
-- Linked from Coursera's GAN course, very satisfying idea. Read it bozo!
 
 ## [Generalized Ternary Connect: End-to-End Learning and Compression of Multiplication-Free Deep Neural Networks](https://arxiv.org/abs/1811.04985)
-- **Read?** No
 - Seems to involve restricting the weights of a neural network to powers of 2 such that no multiplications are necessary. This is done instead of the more typical binarization of weights.
+
+## [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
 
