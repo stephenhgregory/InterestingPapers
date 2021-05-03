@@ -61,3 +61,5 @@ representations from object parts to scenes in both generator and discriminator
 
 ## [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
 
+## [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)
+- Facebook Blog: [https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/]()
